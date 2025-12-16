@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+dist/
+build/
+.eggs/
+.python-version
+.venv
+.env
+
+# VSCode
+.vscode/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Pytest
+.pytest_cache/
